@@ -11,4 +11,5 @@ Block Chain Source Code for PokerPlayer scenario
 对于有一定编码能力的读者，我们提供了示例性的代码，你可以通过下载运行，一步一步更加直观的理解区块链在计算机上的实现方式，完成你的第一个可以实际运行的区块链代码示例。
 
 文章链接： https://blog.csdn.net/charlesguo/article/details/105196489
+
 代码链接： https://github.com/ecustjanny/PokerBlockChain
